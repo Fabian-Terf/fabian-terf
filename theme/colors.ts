@@ -1,11 +1,10 @@
-// theme/colors.ts
 export const colors = {
-  background: "#EAF2FF",     // bleu très clair, doux, idéal pour un CV
-  primary: "#0A3D62",        // bleu profond, élégant (titres)
-  secondary: "#1B4F72",      // bleu moyen (sous-titres)
-  accent: "#4A90E2",         // bleu lumineux (boutons, liens)
-  card: "#FFFFFF",           // cartes blanches arrondies
-  border: "#D6E4FF",         // bordures discrètes
-  textDark: "#0A3D62",       // texte principal
-  textLight: "#1B4F72",      // texte secondaire
+  background: "#5d95de",   // bleu plus clair, lisible
+  card: "#22416d",         // bleu foncé doux mais visible
+  primary: "#1F5FA8",      // bleu moyen
+  secondary: "#4AA3FF",    // bleu clair
+  accent: "#6FD2FF",       // turquoise lumineux
+  text: "#F7FAFF",         // blanc légèrement bleuté
+  textLight: "#D3E2F7",
+  border: "#2C4A6E",
 }
